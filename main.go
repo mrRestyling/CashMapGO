@@ -1,4 +1,4 @@
-package mainз
+package main
 
 import (
 	"Cash/storage"
