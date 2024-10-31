@@ -8,7 +8,7 @@ import (
 type Storage struct {
 	List map[string]interface{}
 	mu   sync.Mutex
-	l    string
+	q    bool
 }
 
 type Item struct {
