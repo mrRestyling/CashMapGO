@@ -1,3 +1,11 @@
 new/main.go
 new/storage/storage.go
 new/go.mod
+OLD+Train/new/go.mod
+OLD+Train/new/main.go
+OLD+Train/new/storage/storage.go
+OLD+Train/OLD_in_action/ETALON.go
+OLD+Train/OLD_in_action/myTrash.go
+OLD+Train/OLD_in_action/trainONE/go.mod
+OLD+Train/OLD_in_action/trainONE/main.go
+OLD+Train/OLD_in_action/trainONE/storage/storage.go
